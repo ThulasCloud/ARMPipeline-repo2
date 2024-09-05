@@ -20,6 +20,6 @@ steps:
     resourceGroupName: 'ARMPipeline-rg'
     location: 'South Africa North'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/ThulasCloud/ARMPipeline-repo2/main/create_web_app/azuredeploy.json?token=GHSAT0AAAAAACXCEXO7ZM4KRK2ZT54ZMOMWZWZTUTA'
+    csmFileLink: https://raw.githubusercontent.com/ThulasCloud/ARMPipeline-repo2/main/create_web_app/azuredeploy.json?token=GHSAT0AAAAAACXCEXO6T6ESEKFXCNQGAHQ6ZWZUOZA
     overrideParameters: '-projectName ARMPipeline-repo2'
     deploymentMode: 'Incremental'
